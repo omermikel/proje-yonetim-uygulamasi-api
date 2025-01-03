@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiziixAPI", "FiziixAPI\FiziixAPI.csproj", "{C62B953D-AD87-430C-8350-6CD9C274CB8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiziix", "..\..\..\..\source\repos\Fiziix66666\Fiziix\Fiziix.csproj", "{F6B1D726-47A4-4FA0-82AE-2BFD05D6492D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62B953D-AD87-430C-8350-6CD9C274CB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62B953D-AD87-430C-8350-6CD9C274CB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62B953D-AD87-430C-8350-6CD9C274CB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62B953D-AD87-430C-8350-6CD9C274CB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B1D726-47A4-4FA0-82AE-2BFD05D6492D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B1D726-47A4-4FA0-82AE-2BFD05D6492D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B1D726-47A4-4FA0-82AE-2BFD05D6492D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B1D726-47A4-4FA0-82AE-2BFD05D6492D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E2B9E2-93F8-49ED-A12A-7D23E53B15AA}
+	EndGlobalSection
+EndGlobal

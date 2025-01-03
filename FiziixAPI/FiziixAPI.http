@@ -1,0 +1,6 @@
+@FiziixAPI_HostAddress = http://localhost:5056
+
+GET {{FiziixAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
